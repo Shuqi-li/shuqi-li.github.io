@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: 'http://academicpages.github.io/files/MyCV-shuqili.pdf'
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
