@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+[CV] http://academicpages.github.io/files/MyCV-shuqili.pdf
 <!-- 
 {% include base_path %}
 
