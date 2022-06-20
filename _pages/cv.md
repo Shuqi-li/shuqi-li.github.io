@@ -6,38 +6,29 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV] http://academicpages.github.io/files/MyCV-shuqili.pdf
-<!-- 
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 09/2021-- Now, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D. Candidate
+* 09/2019--07/2021, School of Methmatics and Statistics, Beijing Jiaotong University, M.S.
+* 09/2014--07/2018, School of Science, Xi'an University of Technology, B.S.
 
-Work experience
+Internship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 06/2021--10/2021: Microsoft Asia Research Institute
+* 10/2020--04/2021: Real AI
+* 06/2019--10/2019: Institute of automation, Chinese Academy of Sciences
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning: Natural Language Processing, Time Series Prediction
+* AI for Science: Drug Target Interaction, Viral Escape
+* Fintech:  Stock Prediction
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
