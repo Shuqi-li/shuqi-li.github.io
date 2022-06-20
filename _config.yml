@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuqi Li"
+  name             : # "Shuqi Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : # "Your biography for the left-hand sidebar"
+  location         : 
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Martha-Lee-2"
