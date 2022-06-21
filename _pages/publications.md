@@ -7,20 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* 09/2021-- Now, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D. Candidate
-* 09/2019--07/2021, School of Methmatics and Statistics, Beijing Jiaotong University, M.S.
-* 09/2014--07/2018, School of Science, Xi'an University of Technology, B.S.
-
-Internship
-======
-* 06/2021--10/2021: Microsoft Asia Research Institute
-* 10/2020--04/2021: Real AI
-* 06/2019--10/2019: Institute of automation, Chinese Academy of Sciences
-  
-Research Interests
-======
-* Deep Learning: Natural Language Processing, Time Series Prediction
-* AI for Science: Drug Target Interaction, Viral Escape
-* Fintech:  Stock Prediction
+* Li, Shuqi, and Aijing Lin. "Exploring the relationship among predictability, prediction accuracy and data frequency of financial time series." Entropy 22.12 (2020): 1381.
+* Li, Shuqi, Xiaoming Liu, and Aijing Lin. "Fractional frequency hybrid model based on EEMD for financial time series forecasting." Communications in Nonlinear Science and Numerical Simulation 89 (2020): 105281.
+* 陈敏, 李书琪, and 广文革. "基于大数据分析的死缓限制减刑司法适用研究." 统计与信息论坛 34.11(2019):6.
+* Xu, LingLing, et al. "Correlation between vertical distribution of three Cypripedium species and composition of orchid mycorrhizal fungal community." Mycosystema 38.6 (2019): 811-821.
