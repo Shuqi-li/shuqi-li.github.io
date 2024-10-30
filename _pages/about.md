@@ -11,14 +11,20 @@ redirect_from:
 
 I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Time Series Modeling. Recently, I have been focused on time series prediction tasks and explainable stock market analysis tasks by large language model alignment, LLM-based agent construction, and sequential modeling.
 
+Research Interests
+=====
+Foundational AI: Time Series, Text Mining
+Interdisciplinary AI: Stock Movement Prediction, News-driven Stock Market Analysis, Explainable Stock Prediction, Stock Recommendation
+
 Education
 ======
 * 09/2021-- Now, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D. Candidate
-* 09/2019--07/2021, School of Methmatics and Statistics, Beijing Jiaotong University, M.S.
+* 09/2019--07/2021, School of Mathematics and Statistics, Beijing Jiaotong University, M.S.
 * 09/2014--07/2018, School of Science, Xi'an University of Technology, B.S.
 
 News
 ======
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
