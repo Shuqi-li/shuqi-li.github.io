@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-======
+
 I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Time Series Modeling. Recently, I have been focused on time series prediction tasks and explainable stock market analysis tasks by large language model alignment, LLM-based agent construction, and sequential modeling.
 
 
