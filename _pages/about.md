@@ -18,7 +18,7 @@ Research Interests
 
 Education
 ======
-* 09/2021-- Now, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D. Candidate
+* From 09/2021, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D. Candidate
 * 09/2019--07/2021, School of Mathematics and Statistics, Beijing Jiaotong University, M.S.
 * 09/2014--07/2018, School of Science, Xi'an University of Technology, B.S.
 
