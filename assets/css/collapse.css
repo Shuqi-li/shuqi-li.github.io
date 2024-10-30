@@ -1,9 +1,9 @@
 .container {
-    width:50%;
+    width:100%;
     border:1px solid #d3d3d3;
 }
 .container div {
-    width:50%;
+    width:100%;
 }
 .container .header {
     background-color:#d3d3d3;
@@ -13,4 +13,5 @@
 }
 .container .content {
     display: none;
+    width:80%;
     padding : 5px;
