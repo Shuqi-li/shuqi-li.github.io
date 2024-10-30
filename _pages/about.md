@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Shuqi Li is a Ph.D student at Gaoling School of Artificial Intelligence, Renmin University of China, under the supervision of Prof. Rui Yan. She majors in Artificial Intelligence and her research focus is by integrating data from protein sequences and molecule sequences to model the scheme of drug-target interactions protein-protein interactions and drug-drug interactions. Recently, she is interested in viral escape detection. Feel free to contact her at aiye@nllay.com if needed.
+Biography
+======
+Her research focus is by integrating data from protein sequences and molecule sequences to model the scheme of drug-target interactions protein-protein interactions and drug-drug interactions. Recently, she is interested in viral escape detection. Feel free to contact her at aiye@nllay.com if needed.
+
+My research spans machine learning theory, algorithms and models, with persistent commitment to creating strong learning machines from big data that adapt to the real world. I am working on deep learning and foundation models, scientific learning and world models, transfer learning and model adaptation.
+
+Our Machine Learning Group is interested in powering machine learning for representation, perception, prediction, and generation of big data with a good tradeoff between accuracy, efficiency, generalizability, and transferability. Our mission is to solve open problems and enable major applications of Artificial Intelligence (AI), including physical sciences, hybrid AI systems, and industrial software.
 
 Research Interests
 ======
