@@ -32,6 +32,7 @@ News About Papers
 Publications
 ======
 
+* **Shuqi Li**, Yuebo Sun, Yuxin Lin, Xin Gao, Shuo Shang, Rui Yan. CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction. NeurIPS, 2024.  
 * Yuhan Chen, **Shuqi Li**, Rui Yan. FlexiQA: Leveraging LLM’s Evaluation Capabilities for Flexible Knowledge Selection in Open-domain Question Answering. EACL, 2024.  
 * Xiaoqing Zhang, Xiuying Chen, Shen Gao, **Shuqi Li**, Xin Gao, Ji-Rong Wen, Rui Yan. Selecting Query-bag as Pseudo Relevance Feedback for Information-seeking Conversations. arXiv, 2024.  
 * **Shuqi Li**, Weiheng Liao, Yuhan Chen, Rui Yan. Pen: prediction-explanation network to forecast stock price movement with better explainability. AAAI, 2023.  
