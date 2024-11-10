@@ -32,17 +32,17 @@ News About Papers
 Publications
 ======
 
-* **Shuqi Li**, Yuebo Sun, Yuxin Lin, Xin Gao, Shuo Shang, Rui Yan. CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction. NeurIPS, 2024.  
-* Yuhan Chen, **Shuqi Li**, Rui Yan. FlexiQA: Leveraging LLM’s Evaluation Capabilities for Flexible Knowledge Selection in Open-domain Question Answering. EACL, 2024.  
-* Xiaoqing Zhang, Xiuying Chen, Shen Gao, **Shuqi Li**, Xin Gao, Ji-Rong Wen, Rui Yan. Selecting Query-bag as Pseudo Relevance Feedback for Information-seeking Conversations. arXiv, 2024.  
-* **Shuqi Li**, Weiheng Liao, Yuhan Chen, Rui Yan. Pen: prediction-explanation network to forecast stock price movement with better explainability. AAAI, 2023.  
-* Di Luo, Weiheng Liao, **Shuqi Li**, Xin Cheng, Rui Yan. Causality-guided multi-memory interaction network for multivariate stock price movement prediction. ACL, 2023.  
-* Hongda, Shufang Xie, **Shuqi Li**, Yuhan Chen, Ji-Rong Wen, Rui Yan. Debiased, longitudinal and coordinated drug recommendation through multi-visit clinic records. NeurIPS, 2022.  
-* Xiaoming Liu, Aijing Lin, **Shuqi Li**. Classification of international stock markets through MDS based on Hurst-surface distance. Physica A: Statistical Mechanics and Its Applications, 2021.  
-* **Shuqi Li**, Aijing Lin. Exploring the relationship among predictability, prediction accuracy and data frequency of financial time series. Entropy, 2020.  
-* **Shuqi Li**, Xiaoming Liu, Aijing Lin. Fractional frequency hybrid model based on EEMD for financial time series forecasting. Communications in Nonlinear Science and Numerical Simulation, 2020.  
+* **Shuqi Li**, Yuebo Sun, Yuxin Lin, Xin Gao, Shuo Shang, Rui Yan. CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction. NeurIPS, 2024. [paper link]()  
+* Yuhan Chen, **Shuqi Li**, Rui Yan. FlexiQA: Leveraging LLM’s Evaluation Capabilities for Flexible Knowledge Selection in Open-domain Question Answering. EACL, 2024. [paper link](https://aclanthology.org/2024.findings-eacl.4.pdf)  
+* Xiaoqing Zhang, Xiuying Chen, Shen Gao, **Shuqi Li**, Xin Gao, Ji-Rong Wen, Rui Yan. [paper link]() Selecting Query-bag as Pseudo Relevance Feedback for Information-seeking Conversations. arXiv, 2024. [paper link](https://arxiv.org/pdf/2404.04272)  
+* **Shuqi Li**, Weiheng Liao, Yuhan Chen, Rui Yan. Pen: prediction-explanation network to forecast stock price movement with better explainability. AAAI, 2023. [paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25648/25420)  
+* Di Luo, Weiheng Liao, **Shuqi Li**, Xin Cheng, Rui Yan. Causality-guided multi-memory interaction network for multivariate stock price movement prediction. ACL, 2023. [paper link](https://aclanthology.org/2023.acl-long.679.pdf)  
+* Hongda, Shufang Xie, **Shuqi Li**, Yuhan Chen, Ji-Rong Wen, Rui Yan. Debiased, longitudinal and coordinated drug recommendation through multi-visit clinic records. NeurIPS, 2022. [paper link](https://proceedings.neurips.cc/paper_files/paper/2022/file/b295b3a940706f431076c86b78907757-Paper-Conference.pdf)  
+* Xiaoming Liu, Aijing Lin, **Shuqi Li**. Classification of international stock markets through MDS based on Hurst-surface distance. Physica A: Statistical Mechanics and Its Applications, 2021. [paper link](https://www.sciencedirect.com/science/article/abs/pii/S0378437120308839)  
+* **Shuqi Li**, Aijing Lin. Exploring the relationship among predictability, prediction accuracy and data frequency of financial time series. Entropy, 2020. [paper link](https://www.mdpi.com/1099-4300/22/12/1381) 
+* **Shuqi Li**, Xiaoming Liu, Aijing Lin. Fractional frequency hybrid model based on EEMD for financial time series forecasting. Communications in Nonlinear Science and Numerical Simulation, 2020. [paper link](https://wenku.baidu.com/view/908617da53e2524de518964bcf84b9d528ea2cc8?fr=xueshu&_wkts_=1731220575567&needWelcomeRecommand=1)
 * 陈敏, **李书琪**, 广文革. 基于大数据分析的死缓限制减刑司法适用研究. 统计与信息论坛, 2019.  
-* Xu, LingLing, et al. Correlation between vertical distribution of three Cypripedium species and composition of orchid mycorrhizal fungal community. Mycosystema, 2019.[paper link](https://www.cabidigitallibrary.org/doi/full/10.5555/20193338574)
+* Xu, LingLing, et al. Correlation between vertical distribution of three Cypripedium species and composition of orchid mycorrhizal fungal community. Mycosystema, 2019. [paper link](https://www.cabidigitallibrary.org/doi/full/10.5555/20193338574)
 
   
 
