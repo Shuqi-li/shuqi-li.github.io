@@ -13,7 +13,7 @@ I am interested in powering machine learning for data representation, perception
 
 Research Interests
 =====
-* Foundational AI: Time Series, Text Mining
+* Foundational AI: Large Language Model, Time Series, Text Mining
 * Interdisciplinary AI: Stock Movement Prediction, News-driven Stock Market Analysis, Explainable Stock Prediction, Stock Recommendation
 
 Education Experiences
