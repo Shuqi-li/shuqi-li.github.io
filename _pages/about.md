@@ -34,7 +34,7 @@ Publications
 
 * **Shuqi Li**, Yuebo Sun, Yuxin Lin, Xin Gao, Shuo Shang, Rui Yan. CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction. NeurIPS, 2024. [paper link]()  
 * Yuhan Chen, **Shuqi Li**, Rui Yan. FlexiQA: Leveraging LLM’s Evaluation Capabilities for Flexible Knowledge Selection in Open-domain Question Answering. EACL, 2024. [paper link](https://aclanthology.org/2024.findings-eacl.4.pdf)  
-* Xiaoqing Zhang, Xiuying Chen, Shen Gao, **Shuqi Li**, Xin Gao, Ji-Rong Wen, Rui Yan. [paper link]() Selecting Query-bag as Pseudo Relevance Feedback for Information-seeking Conversations. arXiv, 2024. [paper link](https://arxiv.org/pdf/2404.04272)  
+* Xiaoqing Zhang, Xiuying Chen, Shen Gao, **Shuqi Li**, Xin Gao, Ji-Rong Wen, Rui Yan. Selecting Query-bag as Pseudo Relevance Feedback for Information-seeking Conversations. arXiv, 2024. [paper link](https://arxiv.org/pdf/2404.04272)  
 * **Shuqi Li**, Weiheng Liao, Yuhan Chen, Rui Yan. Pen: prediction-explanation network to forecast stock price movement with better explainability. AAAI, 2023. [paper link](https://ojs.aaai.org/index.php/AAAI/article/view/25648/25420)  
 * Di Luo, Weiheng Liao, **Shuqi Li**, Xin Cheng, Rui Yan. Causality-guided multi-memory interaction network for multivariate stock price movement prediction. ACL, 2023. [paper link](https://aclanthology.org/2023.acl-long.679.pdf)  
 * Hongda, Shufang Xie, **Shuqi Li**, Yuhan Chen, Ji-Rong Wen, Rui Yan. Debiased, longitudinal and coordinated drug recommendation through multi-visit clinic records. NeurIPS, 2022. [paper link](https://proceedings.neurips.cc/paper_files/paper/2022/file/b295b3a940706f431076c86b78907757-Paper-Conference.pdf)  
