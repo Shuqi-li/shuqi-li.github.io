@@ -40,8 +40,8 @@ Publications
 * Hongda, Shufang Xie, **Shuqi Li**, Yuhan Chen, Ji-Rong Wen, Rui Yan. Debiased, longitudinal and coordinated drug recommendation through multi-visit clinic records. NeurIPS, 2022. [paper link](https://proceedings.neurips.cc/paper_files/paper/2022/file/b295b3a940706f431076c86b78907757-Paper-Conference.pdf)  
 * Xiaoming Liu, Aijing Lin, **Shuqi Li**. Classification of international stock markets through MDS based on Hurst-surface distance. Physica A: Statistical Mechanics and Its Applications, 2021. [paper link](https://www.sciencedirect.com/science/article/abs/pii/S0378437120308839)  
 * **Shuqi Li**, Aijing Lin. Exploring the relationship among predictability, prediction accuracy and data frequency of financial time series. Entropy, 2020. [paper link](https://www.mdpi.com/1099-4300/22/12/1381) 
-* **Shuqi Li**, Xiaoming Liu, Aijing Lin. Fractional frequency hybrid model based on EEMD for financial time series forecasting. Communications in Nonlinear Science and Numerical Simulation, 2020. [paper link](https://wenku.baidu.com/view/908617da53e2524de518964bcf84b9d528ea2cc8?fr=xueshu&_wkts_=1731220575567&needWelcomeRecommand=1)
-* 陈敏, **李书琪**, 广文革. 基于大数据分析的死缓限制减刑司法适用研究. 统计与信息论坛, 2019.  
+* **Shuqi Li**, Xiaoming Liu, Aijing Lin. Fractional frequency hybrid model based on EEMD for financial time series forecasting. Communications in Nonlinear Science and Numerical Simulation, 2020. [paper link](https://www.sciencedirect.com/science/article/abs/pii/S1007570420301131)
+* 陈敏, **李书琪**, 广文革. 基于大数据分析的死缓限制减刑司法适用研究. 统计与信息论坛, 2019. [paper link](https://wenku.baidu.com/view/908617da53e2524de518964bcf84b9d528ea2cc8?fr=xueshu&_wkts_=1731220575567&needWelcomeRecommand=1)  
 * Xu, LingLing, et al. Correlation between vertical distribution of three Cypripedium species and composition of orchid mycorrhizal fungal community. Mycosystema, 2019. [paper link](https://www.cabidigitallibrary.org/doi/full/10.5555/20193338574)
 
   
