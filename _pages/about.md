@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Time Series Modeling. Recently, I have been focused on time series prediction tasks and explainable stock market analysis tasks by large language model alignment, LLM-based agent construction, and sequential modeling.
+I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Sequential Data Modeling. Recently, I have been focused on time series prediction tasks and explainable stock market analysis tasks by large language model alignment, AI agent construction.
 
 Research Interests
 =====
-* Foundational AI: Large Language Model, Time Series, Text Mining
-* Interdisciplinary AI: Stock Movement Prediction, News-driven Stock Market Analysis, Explainable Stock Prediction, Stock Recommendation
+* Foundational AI: Large Language Model, Time Series Prediction, Text Mining
+* Fintech: Financial Large Language Model Pre-training and Post-training, Explainable Stock Movement Prediction, News-driven Stock Market Analysis, Stock Recommendation
+* AI for Science: Protein Pre-training, Drug-Target Interaction Prediction
 
 Education Experiences
 ======
