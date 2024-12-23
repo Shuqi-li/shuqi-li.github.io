@@ -25,6 +25,8 @@ Education Experiences
 
 News About Papers
 ======
+* 2024-12-23 Baichuan4-Finance Technical Report is publish in arXiv! 
+* 2024-12-22 Our work MagicNet: Memory-Aware Graph Interactive Casual Network for Multivariate Stock Price Movement Prediction was accepted to TKDE!
 * 2024-10-15 The work done with Heyue Lin is submitted to The WebConf 2025!  
 * 2024-10-15 The work done with Song Jin is submitted to The WebConf 2025!  
 * 2024-10-09 The work done with Mengyao Guo is submitted to TPAMI!  
@@ -33,6 +35,8 @@ News About Papers
 Publications
 ======
 
+* Di Luo, **Shuqi Li**, Weiheng Liao, Rui Yan. MagicNet: Memory-Aware Graph Interactive Casual Network for Multivariate Stock Price Movement Prediction. TKDE, 2024.  
+* Hanyu Zhang, Boyu Qiu, Yuhao Feng, **Shuqi Li**, Qian Ma, Xiyuan Zhang, Qiang Ju, Dong Yan, Jian Xie. Baichuan4-Finance LLM Technical Report. arXiv, 2024.  [paper link](https://arxiv.org/abs/2412.15270)
 * **Shuqi Li**, Yuebo Sun, Yuxin Lin, Xin Gao, Shuo Shang, Rui Yan. CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction. NeurIPS, 2024. [paper link](https://arxiv.org/abs/2411.06391)  
 * Yuhan Chen, **Shuqi Li**, Rui Yan. FlexiQA: Leveraging LLM’s Evaluation Capabilities for Flexible Knowledge Selection in Open-domain Question Answering. EACL, 2024. [paper link](https://aclanthology.org/2024.findings-eacl.4.pdf)
 * Xin Cheng, Xiuying Chen, **Shuqi Li**, Di Luo, Xun Wang, Dongyan Zhao, Rui Yan. Leveraging 2D Information for Long-term Time Series Forecasting with Vanilla Transformers. arXiv, 2024. [paper link](https://arxiv.org/pdf/2405.13810)  
