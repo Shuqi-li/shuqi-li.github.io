@@ -25,7 +25,7 @@ Education Experiences
 
 News About Papers
 ======
-* 2024-12-23 Baichuan4-Finance Technical Report is publish in arXiv! 
+* 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
 * 2024-12-22 Our work MagicNet: Memory-Aware Graph Interactive Casual Network for Multivariate Stock Price Movement Prediction was accepted to TKDE!
 * 2024-10-15 The work done with Heyue Lin is submitted to The WebConf 2025!  
 * 2024-10-15 The work done with Song Jin is submitted to The WebConf 2025!  
