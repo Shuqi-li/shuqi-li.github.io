@@ -27,6 +27,7 @@ News About Papers
 ======
 * 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
 * 2024-12-22 Our work MagicNet was accepted to TKDE!
+* 2024-12-15 The work done with Song Jin is submitted to ARR!
 * 2024-10-15 The work done with Heyue Lin is submitted to The WebConf 2025!  
 * 2024-10-15 The work done with Song Jin is submitted to The WebConf 2025!  
 * 2024-10-09 The work done with Mengyao Guo is submitted to TPAMI!  
