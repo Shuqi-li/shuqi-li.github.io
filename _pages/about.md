@@ -25,6 +25,7 @@ Education Experiences
 
 News About Papers
 ======
+* 2025-03-05 Our work MIN was accepted to TCBB! 
 * 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
 * 2024-12-22 Our work MagicNet was accepted to TKDE!
 * 2024-12-15 The work done with Song Jin is submitted to ARR!
@@ -36,7 +37,7 @@ News About Papers
 Publications
 ======
 
-* Shuqi Li, Shufang Xie, Hongda Sun, Yuhan Chen, Tao Qin, Tianjun Ke, Rui Yan. MIN: Multi-channel Interaction Network for Drug-Target Interaction with Structural Modeling. arXiv, 2024.  [paper link](https://arxiv.org/abs/2412.07778)
+* **Shuqi Li**, Shufang Xie, Hongda Sun, Yuhan Chen, Tao Qin, Tianjun Ke, Rui Yan. MIN: Multi-channel Interaction Network for Drug-Target Interaction with Structural Modeling. TCBB, 2024.  [paper link](https://arxiv.org/abs/2412.07778)
 * Di Luo, **Shuqi Li**, Weiheng Liao, Rui Yan. MagicNet: Memory-Aware Graph Interactive Casual Network for Multivariate Stock Price Movement Prediction. TKDE, 2024.  
 * Hanyu Zhang, Boyu Qiu, Yuhao Feng, **Shuqi Li**, Qian Ma, Xiyuan Zhang, Qiang Ju, Dong Yan, Jian Xie. Baichuan4-Finance LLM Technical Report. arXiv, 2024.  [paper link](https://arxiv.org/abs/2412.15270)
 * **Shuqi Li**, Yuebo Sun, Yuxin Lin, Xin Gao, Shuo Shang, Rui Yan. CausalStock: Deep End-to-end Causal Discovery for News-driven Multi-stock Movement Prediction. NeurIPS, 2024. [paper link](https://arxiv.org/abs/2411.06391)  
