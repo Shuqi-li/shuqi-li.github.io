@@ -27,7 +27,7 @@ Education Experiences & Research Stay
 
 News About Papers
 ======
-* 2025-07-01 Our work SE (3)-equivariant ternary complex prediction towards target protein degradation was published in Nature Communications! 
+* 2025-07-01 Our work **SE (3)-equivariant ternary complex prediction towards target protein degradation** was published in Nature Communications! 
 * 2025-03-05 Our work MIN was accepted to TCBB! 
 * 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
 * 2024-12-22 Our work MagicNet was accepted to TKDE!
@@ -35,7 +35,7 @@ News About Papers
 Publications
 ======
 * Fanglei Xue, Meihan Zhang, **Shuqi L**, Xinyu Gao, James A Wohlschlegel, Wenbing Huang, Yi Yang, Weixian Deng. SE(3) - equivariant Ternary Complex Prediction Towards Target Protein Degradation. Nature Communications, 2025. [paper link](https://www.nature.com/articles/s41467-025-61272-5))
-* Jiayu Guo, Yu Guo, **Shuqi Li**, Songtao Tan. FLAME: Financial Large-Language Model Assessment and Metrics Evaluation. \textbf{arXiv, 2025}. [paper link](https://arxiv.org/abs/2501.06211)
+* Jiayu Guo, Yu Guo, **Shuqi Li**, Songtao Tan. FLAME: Financial Large-Language Model Assessment and Metrics Evaluation. arXiv, 2025. [paper link](https://arxiv.org/abs/2501.06211)
 * **Shuqi Li**, Shufang Xie, Hongda Sun, Yuhan Chen, Tao Qin, Tianjun Ke, Rui Yan. MIN: Multi-channel Interaction Network for Drug-Target Interaction with Structural Modeling. TCBB, 2025.  [paper link](https://arxiv.org/abs/2412.07778)
 * Di Luo, **Shuqi Li**, Weiheng Liao, Rui Yan. MagicNet: Memory-Aware Graph Interactive Casual Network for Multivariate Stock Price Movement Prediction. TKDE, 2024.  
 * Hanyu Zhang, Boyu Qiu, Yuhao Feng, **Shuqi Li**, Qian Ma, Xiyuan Zhang, Qiang Ju, Dong Yan, Jian Xie. Baichuan4-Finance LLM Technical Report. arXiv, 2024.  [paper link](https://arxiv.org/abs/2412.15270)
