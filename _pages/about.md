@@ -9,30 +9,28 @@ redirect_from:
 ---
 
 
-I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Sequential Data Modeling. Recently, I have been focused on time series prediction tasks and explainable stock market analysis tasks by large language model alignment, AI agent construction.
+I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Sequential Data Modeling. Recently, I have been focused on LLM Reasoning, Self-improving Agents, and AI for Science.
 
 Research Interests
 =====
-* Foundational AI: Large Language Model, Time Series Prediction, Text Mining
+* Foundational AI: LLM Reasoning, Sequential Data Prediction, Text Mining
+* AI for Science: Protein Pre-training, Drug-Target Interaction Prediction, Protein Design
 * Fintech: Financial Large Language Model Pre-training and Post-training, Explainable Stock Movement Prediction, News-driven Stock Market Analysis, Stock Recommendation
-* AI for Science: Protein Pre-training, Drug-Target Interaction Prediction
 
-Education Experiences
+
+Education Experiences & Research Stay
 ======
-* From 09/2021, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D. Candidate
+* 08/2025--Now, Computer, Electrical and Mathematical Sciences and Engineering Division, King Abdullah University of Science and Technology, PostDoc
+* 09/2021--07/2025, Gaoling School of Artificial Intelligence, Renmin University of China, Ph.D
 * 09/2019--07/2021, School of Mathematics and Statistics, Beijing Jiaotong University, M.S.
 * 09/2014--07/2018, School of Science, Xi'an University of Technology, B.S.
 
 News About Papers
 ======
+* 2025-07-01 Our work SE (3)-equivariant ternary complex prediction towards target protein degradation was published in Nature Communications! 
 * 2025-03-05 Our work MIN was accepted to TCBB! 
 * 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
 * 2024-12-22 Our work MagicNet was accepted to TKDE!
-* 2024-12-15 The work done with Song Jin is submitted to ARR!
-* 2024-10-15 The work done with Heyue Lin is submitted to The WebConf 2025!  
-* 2024-10-15 The work done with Song Jin is submitted to The WebConf 2025!  
-* 2024-10-09 The work done with Mengyao Guo is submitted to TPAMI!  
-* 2024-08-08 Received the  Major Revision from TCBB!
 
 Publications
 ======
