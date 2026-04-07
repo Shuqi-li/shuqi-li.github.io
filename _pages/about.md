@@ -27,7 +27,8 @@ Education Experiences & Research Stay
 
 News About Papers
 ======
-* 2025-11-08 Our work **FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation** was publiashed in AAAI 2026!
+* 2026-04-07 Our work **ExPred: Explainable Stock Movement Prediction via Hybrid Reflection and Direct Preference Hierarchical Optimization** was published in AIJ!
+* 2025-11-08 Our work **FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation** was published in AAAI 2026!
 * 2025-07-01 Our work **SE (3)-equivariant ternary complex prediction towards target protein degradation** was published in Nature Communications! 
 * 2025-03-05 Our work MIN was accepted to TCBB! 
 * 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
@@ -35,6 +36,7 @@ News About Papers
 
 Publications
 ======
+* **Shuqi Li**, Heyue Lin, Xin Liu, Rui Yan. ExPred: Explainable Stock Movement Prediction via Hybrid Reflection and Direct Preference Hierarchical Optimization. AIJ, 2026.
 * Song Jin, **Shuqi Li**, Shukun Zhang, Rui Yan. FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation. AAAI, 2026.
 * Fanglei Xue, Meihan Zhang, **Shuqi L**, Xinyu Gao, James A Wohlschlegel, Wenbing Huang, Yi Yang, Weixian Deng. SE(3) - equivariant Ternary Complex Prediction Towards Target Protein Degradation. Nature Communications, 2025. [paper link](https://www.nature.com/articles/s41467-025-61272-5))
 * Jiayu Guo, Yu Guo, **Shuqi Li**, Songtao Tan. FLAME: Financial Large-Language Model Assessment and Metrics Evaluation. arXiv, 2025. [paper link](https://arxiv.org/abs/2501.06211)
