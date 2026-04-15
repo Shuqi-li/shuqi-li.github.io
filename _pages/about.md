@@ -36,7 +36,7 @@ News About Papers
 
 Publications
 ======
-* **Shuqi Li**, Heyue Lin, Xin Liu, Rui Yan. ExPred: Explainable Stock Movement Prediction via Hybrid Reflection and Direct Preference Hierarchical Optimization. AIJ, 2026.
+* **Shuqi Li**, Heyue Lin, Xin Liu, Rui Yan. ExPred: Explainable Stock Movement Prediction via Hybrid Reflection and Direct Preference Hierarchical Optimization. AIJ, 2026.[paper link](https://www.sciencedirect.com/science/article/pii/S0004370226000652)
 * Song Jin, **Shuqi Li**, Shukun Zhang, Rui Yan. FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation. AAAI, 2026.
 * Fanglei Xue, Meihan Zhang, **Shuqi L**, Xinyu Gao, James A Wohlschlegel, Wenbing Huang, Yi Yang, Weixian Deng. SE(3) - equivariant Ternary Complex Prediction Towards Target Protein Degradation. Nature Communications, 2025. [paper link](https://www.nature.com/articles/s41467-025-61272-5)
 * Jiayu Guo, Yu Guo, **Shuqi Li**, Songtao Tan. FLAME: Financial Large-Language Model Assessment and Metrics Evaluation. arXiv, 2025. [paper link](https://arxiv.org/abs/2501.06211)
