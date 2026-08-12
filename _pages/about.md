@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Sequential Data Modeling. Recently, I have been focused on LLM Reasoning, Self-improving Agents, and AI for Science.
+I am interested in powering machine learning for data representation, perception, prediction, and generation of sequential data with a good tradeoff between accuracy, efficiency, generalizability, and explainability. My research spans Text Mining and Sequential Data Modeling. Recently, I have been focused on AI for Science.
 
 Research Interests
 =====
 * Foundational AI: LLM Reasoning, Sequential Data Prediction, Text Mining
-* AI for Science: Protein Pre-training, Drug-Target Interaction Prediction, Protein Design
-* Fintech: Financial Large Language Model Pre-training and Post-training, Explainable Stock Movement Prediction, News-driven Stock Market Analysis, Stock Recommendation
+* AI for Science: Clinical Trial Modeling, Drug-Target Interaction Prediction, Protein Design
+* Fintech: Financial LLM Pre-training and Post-training, News-driven Stock Market Analysis, Stock Recommendation
 
 
 Education Experiences & Research Stay
@@ -27,12 +27,13 @@ Education Experiences & Research Stay
 
 News About Papers
 ======
-* 2026-04-07 Our work **ExPred: Explainable Stock Movement Prediction via Hybrid Reflection and Direct Preference Hierarchical Optimization** was published in AIJ!
-* 2025-11-08 Our work **FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation** was published in AAAI 2026!
-* 2025-07-01 Our work **SE (3)-equivariant ternary complex prediction towards target protein degradation** was published in Nature Communications! 
-* 2025-03-05 Our work MIN was accepted to TCBB! 
+* 2026-06-11 Our work **AgentPEN: A Prediction-Explanation Network for Sequential Stock Movement via LLMs and Recurrent Generation** is accepted to JMLR!
+* 2026-04-07 Our work **ExPred: Explainable Stock Movement Prediction via Hybrid Reflection and Direct Preference Hierarchical Optimization** is published in AIJ!
+* 2025-11-08 Our work **FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation** is published in AAAI 2026!
+* 2025-07-01 Our work **SE (3)-equivariant ternary complex prediction towards target protein degradation** is published in Nature Communications! 
+* 2025-03-05 Our work MIN is accepted to TCBB! 
 * 2024-12-23 Baichuan4-Finance Technical Report is published in arXiv! 
-* 2024-12-22 Our work MagicNet was accepted to TKDE!
+* 2024-12-22 Our work MagicNet is accepted to TKDE!
 
 Publications
 ======
